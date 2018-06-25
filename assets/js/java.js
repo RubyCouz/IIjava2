@@ -1,4 +1,3 @@
-function focusOut () {
-  var target = document.getElementById('lastname')
+function onBlur () {
   alert('Merci de votre participation');
 }
